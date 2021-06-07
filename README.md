@@ -1,3 +1,3 @@
 # GraphQL
 
-## Query Github using their GraphQL API.
+### Query Github using their GraphQL API.
